@@ -1,0 +1,196 @@
+body {
+  margin: auto;
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(cover3.jpeg);  
+  font-family: sans-serif;
+  background-size: 100%;
+  background-position: center;
+}
+
+
+form h1 {
+  font-size: 18px;
+  background: linear-gradient(to left, #00d4ff, #133af5);
+  color: rgb(255, 255, 255);
+  padding: 22px 25px;
+  border-radius: 5px 5px 0px 0px;
+  margin: auto;
+  text-shadow: none; 
+  text-align: left;
+}
+
+form {
+  border-radius: 5px;
+  width:50%;
+  margin: 10% auto;
+  background-color: #FFFFFF;
+  overflow: hidden;
+  padding: 0px 0px 30px 0px;
+}
+
+p span {
+  color: #F00;
+}
+
+p {
+  margin: 0px;
+  font-weight: 500;
+  line-height: 2;
+  color:#333;
+}
+
+p#alternate{
+  text-align: center;
+}
+span#logos{
+  padding-left: 55%;
+
+}
+
+#logos
+
+
+}
+
+h1 {
+  text-align:center; 
+  color: white;
+  text-shadow: 1px 1px 0px #FFF;
+  margin: 50px 0px 0px 0px
+}
+
+input {
+  border-radius: 0px 5px 5px 0px;
+  border: 1px solid #eee;
+  margin-bottom: 15px;
+  width: 75%;
+  height: 40px;
+  float: left;
+  padding: 0px 15px;
+}
+
+#plan{
+  border-radius: 0px 5px 5px 0px;
+  border: 1px solid #eee;
+  margin-bottom: 15px;
+  width: 85%;
+  height: 42px;
+  float: left;
+  padding: 0px 15px
+
+}
+
+#gender{
+   border-radius: 0px 5px 5px 0px;
+  border: 1px solid #eee;
+  margin-bottom: 15px;
+  width: 85%;
+  height: 42px;
+  float: left;
+  padding: 0px 15px
+
+}
+
+a {
+  text-decoration:inherit
+}
+
+textarea {
+  border-radius: 0px 5px 5px 0px;
+  border: 1px solid #EEE;
+  margin: 0;
+  width: 75%;
+  height: 100px; 
+  float: left;
+  padding: 0px 15px;
+}
+
+.form-group {
+  overflow: hidden;
+  clear: both;
+}
+
+.icon-case {
+  width: 35px;
+  float: left;
+  border-radius: 5px 0px 0px 5px;
+  background: #ffe6e6;
+  height:42px;
+  position: relative;
+  text-align: center;
+  line-height:40px;
+}
+
+i {
+  color:#555;
+}
+
+.contentform {
+  padding: 40px 30px;
+}
+
+.button-contact{
+  width: 51%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  background: linear-gradient(to right, #36a5e2, #133af5);
+  border:0;
+  outline: none;
+  border-radius: 20px;
+  font-size: 14px;
+  margin-top: 20px;
+  box-shadow: 0 5px #133af5;
+  color: white;
+}
+
+.button-contact:hover {
+  background-color: #010089;
+  opacity: 1;
+}
+
+.button-contact:active {
+  
+  box-shadow: 0 5px #133af5;
+  transform: translateY(3px);
+}
+
+
+.leftcontact {
+  width:49.5%; 
+  float:left;
+  border-right: 1px dotted #CCC;
+  box-sizing: border-box;
+  padding: 0px 15px 0px 0px;
+}
+
+.rightcontact {
+  width:49.5%;
+  float:right;
+  box-sizing: border-box;
+  padding: 0px 0px 0px 15px;
+}
+
+.validation {
+  display:none;
+  margin: 0 0 10px;
+  font-weight:400;
+  font-size:13px;
+  color: #DE5959;
+}
+
+.social{
+  margin: 10px auto;
+  text-align: center;
+}
+
+
+.social img{
+  width: 30px;
+  margin: 0 12px;
+  box-shadow: 0 0 20px 0 #7f7f7f3d;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+
